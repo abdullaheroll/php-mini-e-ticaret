@@ -19,8 +19,13 @@ Bu platform, esnek yapısı sayesinde farklı türde ürünlerin satışına ola
 ## Teknik Detaylar:
 
 - **Programlama Dili:** PHP
-- **Veritabanı:** MySQL
+- **Veri Tabanı:** MySQL
 - **Frontend:** HTML, CSS, JavaScript (isteğe bağlı olarak jQuery)
 - **Backend:** PHP, MySQL
 
 Projemiz, modern e-ticaret gereksinimlerini karşılamak üzere tasarlanmıştır ve sürekli olarak güncellenmektedir. Kullanıcı deneyimini ön planda tutarak, satış süreçlerinizi kolaylaştırmak ve işletmenizi büyütmek için ihtiyacınız olan tüm araçları sağlar.
+
+## Veri Tabanı:
+- **Veri Tabanı Adı :** eticaret
+- **Kullanıcı Adı   :** root
+- **Şifre           :**
