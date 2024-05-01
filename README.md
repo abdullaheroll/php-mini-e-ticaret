@@ -14,7 +14,7 @@ Bu proje, PHP ve MySQL kullanılarak oluşturulmuş dinamik bir e-ticaret platfo
 - **Hakkımızda ve İletişim Sayfaları:** Şirketiniz veya işletmeniz hakkında bilgileri ziyaretçilere sunabilir ve onlarla iletişime geçmelerini sağlayabilirsiniz.
 - **Yönetim Paneli:** Tüm bu işlemleri kolayca yönetebileceğiniz bir yönetim paneli bulunmaktadır.
 
-Bu platform, esnek yapısı sayesinde farklı türde ürünlerin satışına olanak tanır. İster elbise, ister kitap olsun, sistemimiz satışa hazırdır.
+Bu platform, esnek yapısı sayesinde farklı türde ürünlerin satışına olanak tanır.
 
 ## Teknik Detaylar:
 
@@ -22,8 +22,6 @@ Bu platform, esnek yapısı sayesinde farklı türde ürünlerin satışına ola
 - **Veri Tabanı:** MySQL
 - **Frontend:** HTML, CSS, JavaScript (isteğe bağlı olarak jQuery)
 - **Backend:** PHP, MySQL
-
-Projemiz, modern e-ticaret gereksinimlerini karşılamak üzere tasarlanmıştır ve sürekli olarak güncellenmektedir. Kullanıcı deneyimini ön planda tutarak, satış süreçlerinizi kolaylaştırmak ve işletmenizi büyütmek için ihtiyacınız olan tüm araçları sağlar.
 
 ## Veri Tabanı:
 - **Veri Tabanı Adı :** eticaret
