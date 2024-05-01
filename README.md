@@ -1,4 +1,4 @@
-# PHP E-Ticaret Platformu
+# PHP E-Ticaret Projesi
 
 -------------------------
 
@@ -27,3 +27,15 @@ Bu platform, esnek yapısı sayesinde farklı türde ürünlerin satışına ola
 - **Veri Tabanı Adı :** eticaret
 - **Kullanıcı Adı   :** root
 - **Şifre           :**
+- 
+## Aynı Projenin Asp.Net Mvc Hali:
+
+[Asp.Net Mvc Mini E-Ticaret Projesi](https://github.com/abdullaheroll/asp-net-mvc-mini-e-ticaret)
+
+## Anasayfa Ekran Görüntüsü:
+
+![alt text](https://raw.githubusercontent.com/abdullaheroll/php-mini-e-ticaret/main/Gorsel/on-yuz.png)
+
+## Yönetim Paneli Ekran Görüntüsü:
+
+![alt text](https://raw.githubusercontent.com/abdullaheroll/php-mini-e-ticaret/main/Gorsel/yonetim-paneli.png)
